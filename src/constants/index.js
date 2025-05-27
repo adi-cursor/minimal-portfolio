@@ -2,7 +2,7 @@ import { github, linkedin, mail, resume } from '../utils';
 
 export const navList = [
     { "name" : "github" , "link" : "https://github.com/adityaj08" , "logo": github, } ,
-    { "name" : "linkedIn" , "link" : "https://linkd.in/adityajoshi" ,"logo": linkedin, },
+    { "name" : "linkedIn" , "link" : "https://linkd.in/adityaj08" ,"logo": linkedin, },
     { "name" : "resume" , "link"  : "/assets/resume.pdf" , "logo": resume ,},
 ];
 
